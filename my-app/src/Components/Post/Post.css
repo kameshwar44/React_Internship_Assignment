@@ -1,0 +1,30 @@
+.post-container {
+  max-height: 400px; /* Set the maximum height for the container */
+  overflow-y: auto; /* Add vertical scrollbar when content exceeds container height */
+}
+
+.post-table {
+  border-collapse: collapse;
+  margin-left:15% ;
+  
+  font-family: sans-serif;
+  min-width: 300px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+ 
+  
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  border: 1px solid #ddd;
+}
+
+.post-table th, .post-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.post-table th {
+  background-color: #f2f2f2;
+}
+

@@ -1,0 +1,56 @@
+
+.forms {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 8px 0;
+}
+
+
+
+.SignUpButton {
+    width: 100%;
+    background-color: rgb(3, 85, 238);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.LoginButton {
+    width: 100%;
+    background-color: rgb(3, 85, 238);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+
+.SignUpButton:hover {
+    background-color: rgb(222, 237, 10);
+}
+.LoginButton:hover {
+    background-color: rgb(222, 237, 10);
+}
+
+
