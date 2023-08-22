@@ -24,9 +24,8 @@ Before you begin, ensure you have the following software installed on your syste
 
 1. Clone the repository:
 
- ```bash
-   https://github.com/kameshwar44/React_Internship_Assignment.git
 
-
+Deployment Link
    ```bash
-   https://github.com/kameshwar44/React_Internship_Assignment.git
+   
+   https://react-intern-assignments.netlify.app/
